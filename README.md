@@ -13,6 +13,8 @@ Como Usar/Navegar na Página
 Personalização e Desenvolvimento
 Considerações Finais
 1. Visão Geral do Projeto
+
+   
 O MiniMercado SuperUtil é uma página web estática, desenvolvida em HTML5, CSS3 e JavaScript, com aprimoramentos visuais e de responsividade via Bootstrap 5.3. O objetivo principal é simular a presença online de um minimercado, apresentando seus produtos, serviços, informações de contato, localização e horários de funcionamento. Além disso, a página oferece funcionalidades interativas para agendamento de pedidos e cadastro de clientes.
 
 Principais características:
